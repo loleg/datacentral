@@ -6,4 +6,4 @@ For example data packages, browse the [github.com/datasets](https://github.com/d
 
 There is an [online authoring](http://datapackagist.okfnlabs.org/) and [validation tool](http://data.okfn.org/tools/validate) for data packages developed by Open Knowledge. On CKAN portals, the [datapackager extension](https://github.com/ckan/ckanext-datapackager) allows exporting datasets as data packages.
 
-The Datacentral platform was initially developed for [Central de dados](http://centraldedados.pt/) project by [Open Knowledge Portugal](https://okfn.org/network/portugal/), [Journalism++](http://jplusplus.org/), and other open-source [contributors](https://github.com/centraldedados/datacentral/graphs/contributors).
+The Datacentral platform was initially developed for [Central de dados](http://centraldedados.pt/) project by [Open Knowledge Portugal](https://okfn.org/network/portugal/), [Journalism++](http://jplusplus.org/), [Opendata.ch](https://opendata.ch), and other open-source [contributors](https://github.com/centraldedados/datacentral/graphs/contributors).
